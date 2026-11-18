@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: your-user.github.io/campaign-wiki
+  baseUrl: robiwizzard.github.io/aventhar-campaign-wiki
   ignorePatterns:
     - private
     - templates
