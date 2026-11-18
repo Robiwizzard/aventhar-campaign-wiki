@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "quartz-leaflet": {
+      "source": "github:Robiwizzard/quartz-leaflet",
+      "resolved": "https://github.com/Robiwizzard/quartz-leaflet.git",
+      "commit": "df97a548364d5e597b97e94d55b997179c9005a0",
+      "installedAt": "2026-11-17T23:51:31.839Z"
+    }
+  }
+}
